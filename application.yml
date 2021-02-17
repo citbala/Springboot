@@ -1,0 +1,15 @@
+name: bala
+intlist: 12,2,3
+strlist: Bala,Chander, SCB, Capgemini,Bala
+intset: 1,2,33,2,11,9,56,1
+strset: [bala,scb,capg,chennai,bala,standarchartered,scb,chander,capg]
+simplemap:
+  simplemapping: '{
+    91: "india",
+    92: "maldive",
+    93: "burma",
+    91: "pakistan",
+    95: null,
+    null: "something"
+  }'
+
